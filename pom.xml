@@ -27,7 +27,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <beam.version>2.16.0</beam.version>
+    <beam.version>2.64.0</beam.version>
 
     <bigquery.version>v2-rev374-1.22.0</bigquery.version>
     <google-clients.version>1.22.0</google-clients.version>
@@ -452,7 +452,7 @@
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
       <!--<version>3.2.16.RELEASE</version>-->
-      <version>4.3.18.RELEASE</version>
+      <version>6.2.11</version>
     </dependency>
 
     <dependency>
